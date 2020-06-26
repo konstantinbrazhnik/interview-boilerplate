@@ -22,4 +22,20 @@ Change the `i=` link to `https://raw.githubusercontent.com/[YOUR GITHUB USERNAME
 
 Change the `o=` link to `https://raw.githubusercontent.com/[YOUR GITHUB USERNAME]/[YOUR NEW REPO NAME]/master/output.md`
 
+## Edit It
+
+If you want to edit this interview, the easiest way to do it is via our builder and the GitHub editor.
+
+### Editing the Template
+
+Editing the template is a piece of cake. Just click on the edit button in GitHub and write your template in Markdown format. We currently just support headers and paragraph tags, so don't get too fancy. We'll have support for tables and other formatting in the future.
+
+### Editing the Interview
+
+If you want to edit the interview, head on over to the creator part of our builder and use the embedded SurveyJS builder to create alter your interview. Once you're happy with it, go to the `JSON Editor` tab, copy all of the JSON code and over-write your entire `interview.json` file here in GitHub.
+
+You can access the SurveyJS builder for this interview at the following link:
+
+https://builder.getjuris.com/creator/creator?i=https://raw.githubusercontent.com/JurisProject/interview-boilerplate/master/interview.json&o=https://raw.githubusercontent.com/JurisProject/interview-boilerplate/master/output.md
+
 That's it! It's literally that easy.
