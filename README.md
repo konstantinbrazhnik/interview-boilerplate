@@ -38,4 +38,10 @@ You can access the SurveyJS builder for this interview at the following link:
 
 https://builder.getjuris.com/creator/creator?i=https://raw.githubusercontent.com/JurisProject/interview-boilerplate/master/interview.json&o=https://raw.githubusercontent.com/JurisProject/interview-boilerplate/master/output.md
 
+## Embed It
+
+Ready to deploy? With Juris Builder, you don't need any server infrastructure to deploy this to your clients or as an internal tool, simply embed the final interview in an iFrame by using the following code:
+
+`<iframe src="https://builder.getjuris.com/run?i=https://raw.githubusercontent.com/JurisProject/interview-boilerplate/master/interview.json&o=https://raw.githubusercontent.com/JurisProject/interview-boilerplate/master/output.md?hideUI=1" />`
+
 That's it! It's literally that easy.
