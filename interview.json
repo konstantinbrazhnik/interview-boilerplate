@@ -1,0 +1,17 @@
+{
+ "pages": [
+  {
+   "name": "Your Information",
+   "elements": [
+    {
+     "type": "text",
+     "name": "FirstName",
+     "title": "First Name",
+     "description": "Fill this out to get your document!",
+     "isRequired": true
+    }
+   ],
+   "title": "A Sample Interview"
+  }
+ ]
+}
