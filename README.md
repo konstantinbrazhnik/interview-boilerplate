@@ -11,7 +11,7 @@ https://builder.getjuris.com/run?i=https://raw.githubusercontent.com/JurisProjec
 Here's a breakdown of the URL:
 
 `https://builder.getjuris.om/run` is the URL that runs the interview  
-`i=` is a URL link to the raw JSON of the interview file
+`i=` is a URL link to the raw JSON of the interview file  
 `o=` is a URL link to the raw MD of the output file you want to generate a PDF from
 
 ### Cloning this Repo
