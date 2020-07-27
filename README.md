@@ -22,6 +22,9 @@ Change the `i=` link to `https://raw.githubusercontent.com/[YOUR GITHUB USERNAME
 
 Change the `o=` link to `https://raw.githubusercontent.com/[YOUR GITHUB USERNAME]/[YOUR NEW REPO NAME]/master/output.md`
 
+> https://builder.getjuris.com/run?i=https://raw.githubusercontent.com/burrrata/interview-boilerplate/master/interview.json&o=https://raw.githubusercontent.com/burrrata/interview-boilerplate/master/output.md
+
+
 ## Edit It
 
 If you want to edit this interview, the easiest way to do it is via our builder and the GitHub editor.
