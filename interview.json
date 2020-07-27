@@ -9,6 +9,13 @@
      "title": "Organization Name",
      "description": "What is the name of your entity?",
      "isRequired": true
+    },
+    {
+     "type": "text",
+     "name": "PURPOSE",
+     "title": "Organization purpose",
+     "description": "What is the purpose of your entity?",
+     "isRequired": true
     }
    ],
    "title": "Name your entity"
