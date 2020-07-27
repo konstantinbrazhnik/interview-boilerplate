@@ -1,8 +1,7 @@
 {
- "title": "Create a cooperative",
  "pages": [
   {
-   "name": "Create a cooperative",
+   "name": "Your Information",
    "elements": [
     {
      "type": "text",
@@ -11,7 +10,7 @@
      "description": "What is the name of your entity?",
      "isRequired": true
     },
-    {
+   {
      "type": "text",
      "name": "PURPOSE",
      "title": "Organization purpose",
@@ -32,7 +31,8 @@
      "description": "What is the token symbol of your entity?",
      "isRequired": true
     }
-   ]
+   ],
+   "title": "A Sample Interview"
   }
  ]
 }
