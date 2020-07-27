@@ -5,13 +5,13 @@
    "elements": [
     {
      "type": "text",
-     "name": "FirstName",
-     "title": "First Name",
-     "description": "Fill this out to get your document!",
+     "name": "NAME",
+     "title": "Organization Name",
+     "description": "What is the name of your entity?",
      "isRequired": true
     }
    ],
-   "title": "A Sample Interview"
+   "title": "Name your entity"
   }
  ]
 }
