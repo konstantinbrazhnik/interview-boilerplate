@@ -1,7 +1,8 @@
 {
+ "title": "Create a cooperative",
  "pages": [
   {
-   "name": "Your Information",
+   "name": "Your Organization Information",
    "elements": [
     {
      "type": "text",
@@ -31,8 +32,7 @@
      "description": "What is the token symbol of your entity?",
      "isRequired": true
     }
-   ],
-   "title": "Create a cooperative"
+   ]
   }
  ]
 }
