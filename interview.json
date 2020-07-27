@@ -16,9 +16,23 @@
      "title": "Organization purpose",
      "description": "What is the purpose of your entity?",
      "isRequired": true
+    },
+    {
+     "type": "text",
+     "name": "ADDRESS",
+     "title": "Organization address",
+     "description": "What is the Ethereum address of your entity?",
+     "isRequired": true
+    },
+    {
+     "type": "text",
+     "name": "TOKEN",
+     "title": "Organization token",
+     "description": "What is the token symbol of your entity?",
+     "isRequired": true
     }
    ],
-   "title": "Name your entity"
+   "title": "Create a cooperative"
   }
  ]
 }
