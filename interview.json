@@ -19,7 +19,7 @@
     },
     {
      "type": "text",
-     "name": "ADDRESS",
+     "name": "DAO-ADDRESS",
      "title": "Organization address",
      "description": "What is the Ethereum address of your entity?",
      "isRequired": true
